@@ -1,0 +1,33 @@
+\ifx\undefined\bysame
+\newcommand{\bysame}{\leavevmode\hbox to\leftmargin{\hrulefill\,\,}}
+\fi
+\begin{thebibliography}{xx}
+
+\harvarditem[Baker et al.]{Baker, Bellini, Ferreira, Lagos, Noller and
+  Sawicki}{2017}{PhysRevLett.119.251301}
+{\bf Baker, T., E.~Bellini, P.~G. Ferreira, M.~Lagos, J.~Noller, and
+  I.~Sawicki}, ``Strong Constraints on Cosmological Gravity from GW170817 and
+  GRB 170817A,'' {\it Phys. Rev. Lett.}, Dec 2017, {\it 119}, 251301.
+
+\harvarditem[Bertsch and Bingham]{Bertsch and Bingham}{2017}{RN569}
+{\bf Bertsch, G.~F. and D.~Bingham}, ``Estimating Parameter Uncertainty in
+  Binding-Energy Models by the Frequency-Domain Bootstrap,'' {\it Phys Rev
+  Lett}, 2017, {\it 119} (25), 252501.
+
+\harvarditem[Erler et al.]{Erler, Birge, Kortelainen, Nazarewicz, Olsen, Perhac
+  and Stoitsov}{2012}{RN553}
+{\bf Erler, J., N.~Birge, M.~Kortelainen, W.~Nazarewicz, E.~Olsen, A.~M.
+  Perhac, and M.~Stoitsov}, ``The limits of the nuclear landscape,'' {\it
+  Nature}, 2012, {\it 486} (7404), 509--12.
+
+\harvarditem[Moller et al.]{Moller, Nix, Myers and Swiatecki}{1995}{RN550}
+{\bf Moller, P., J.~R. Nix, W.~D. Myers, and W.~J. Swiatecki}, ``Nuclear
+  Ground-State Masses and Deformations,'' {\it Atomic Data and Nuclear Data
+  Tables}, 1995, {\it 59} (2), 185--381.
+
+\harvarditem[Wang et al.]{Wang, Liang, Liu and Wu}{2010}{RN549}
+{\bf Wang, Ning, Zuoying Liang, Min Liu, and Xizhen Wu}, ``Mirror nuclei
+  constraint in nuclear mass formula,'' {\it Physical Review C}, 2010, {\it 82}
+  (4).
+
+\end{thebibliography}

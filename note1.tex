@@ -1,0 +1,36 @@
+\documentclass[cn,11pt,twocol]{elegantbook}
+
+\title{ElegantBook：优美的 \LaTeX{} 书籍模板}
+\subtitle{Elegant\LaTeX{} 经典之作}
+
+\author{Ethan Deng \& Liam Huang}
+\institute{Elegant\LaTeX{} Program}
+\date{\today}
+\version{3.09}
+
+\extrainfo{Victory won\rq t come to us unless we go to it. --- M. Moore}
+
+\logo{logo.png}
+\cover{cover.jpg}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subfigure}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+
+\mainmatter
+\hypersetup{pageanchor=true}
+% add preface chapter here if needed
+{\setlength\arraycolsep{2pt}
+\include{chapter/dialog}
+\include{chapter/mass}
+\bibliographystyle{unsrt}
+\bibliography{reference}
+}
+\end{document}

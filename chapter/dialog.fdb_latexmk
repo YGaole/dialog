@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1567512721 "dialog.tex" "dialog.pdf" "dialog" 1567512721
+  "c:/texlive/2019/texmf-dist/web2c/texmf.cnf" 1567174231 35430 ca24fb44b873d21ac4c63d01600decd4 ""
+  "c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1567175328 4254431 7eff962c9a9fb0ee9e7a8c1e2d94a565 ""
+  "c:/texlive/2019/texmf.cnf" 1567175220 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "dialog.aux" 1567512662 12945 722d2f0db3821cf11faf66b9211a318f ""
+  "dialog.tex" 1567512720 11993 7c7bef57060f2f01367e3ff9024629ad ""
+  (generated)
+  "dialog.log"
+  "dialog.pdf"

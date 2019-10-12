@@ -1,0 +1,26 @@
+\documentclass[lang=cn,11pt]{elegantbook}
+% title info
+\title{Title}
+\subtitle{Subtitle is here}
+% bio info
+\author{Your Name}
+\institute{XXX University}
+\date{\today}
+% extra info
+\version{1.00}
+\extrainfo{Victory won\rq t come to us unless we go to it. --- M. Moore}
+\logo{logo.png}
+\cover{cover.jpg}
+\begin{document}
+\maketitle
+\tableofcontents
+\mainmatter
+\hypersetup{pageanchor=true}
+% add preface chapter here if needed
+\chapter{Example Chapter Title}
+The content of chapter one.
+\section{2019.09.01}
+今天准备重复一篇Phys. Rev. Lett. 文章\cite{RN569,RN549}\href{https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.252501}{<Estimating Parameter Uncertainty in Binding-Energy Models by the Frequency-Domain Bootstrap>}>的内容。这篇文章主要介绍了三种的得到模型参数的不确定性的方法包括$\chi^2$方法\cite{PhysRevLett.119.251301,RN553,RN550}、bootstrap方法和frequency-domain bootstrap (FDB)。
+\bibliographystyle{unsrt}
+\bibliography{reference}
+\end{document}

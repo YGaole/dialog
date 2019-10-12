@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1566400727 "mass.tex" "mass.pdf" "mass" 1566400728
+  "c:/texlive/2019/texmf-dist/web2c/texmf.cnf" 1566358594 35430 ca24fb44b873d21ac4c63d01600decd4 ""
+  "c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1566359830 4254431 4b4b493ec4f24e5238540a0dbf0f161d ""
+  "c:/texlive/2019/texmf.cnf" 1566359742 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "mass.aux" 1566399399 2620 0ec2286314a480120cf067895395c051 ""
+  "mass.tex" 1566400628 3151 0583992c966aecb31d6c4a933615b76b ""
+  (generated)
+  "mass.pdf"
+  "mass.log"
