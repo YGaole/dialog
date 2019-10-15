@@ -1,54 +1,56 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: notes.aux
 The style file: gbt7714-unsrt.bst
 A level-1 auxiliary file: chapter/dialog.aux
 A level-1 auxiliary file: chapter/mass.aux
-Illegal, another \bibstyle command---line 23 of file notes.aux
+A level-1 auxiliary file: chapter/nuclei_models.aux
+Illegal, another \bibstyle command---line 24 of file notes.aux
  : \bibstyle
  :          {numbers}
 I'm skipping whatever remains of this command
-Database file #1: reference.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference.bib
 You've used 4 entries,
-            3424 wiz_defined-function locations,
-            812 strings with 6536 characters,
-and the built_in function-call counts, 21751 in all, are:
-= -- 2279
-> -- 2228
-< -- 2078
-+ -- 657
-- -- 167
-* -- 141
-:= -- 2386
+            4075 wiz_defined-function locations,
+            901 strings with 7060 characters,
+and the built_in function-call counts, 20465 in all, are:
+= -- 768
+> -- 2096
+< -- 2405
++ -- 662
+- -- 275
+* -- 282
+:= -- 2945
 add.period$ -- 19
 call.type$ -- 4
 change.case$ -- 15
-chr.to.int$ -- 598
+chr.to.int$ -- 604
 cite$ -- 4
-duplicate$ -- 85
-empty$ -- 233
+duplicate$ -- 92
+empty$ -- 487
 format.name$ -- 43
-if$ -- 6252
+if$ -- 5202
 int.to.chr$ -- 1
 int.to.str$ -- 5
 missing$ -- 0
 newline$ -- 36
 num.names$ -- 12
-pop$ -- 799
+pop$ -- 801
 preamble$ -- 1
 purify$ -- 4
 quote$ -- 0
-skip$ -- 2656
+skip$ -- 2132
 stack$ -- 0
-substring$ -- 841
-swap$ -- 8
-text.length$ -- 35
+substring$ -- 1332
+swap$ -- 9
+text.length$ -- 43
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 37
+type$ -- 46
 warning$ -- 0
-while$ -- 43
+while$ -- 56
 width$ -- 0
 write$ -- 84
 (There was 1 error message)

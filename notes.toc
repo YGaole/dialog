@@ -44,6 +44,7 @@
 \contentsline {section}{\numberline {1.43}2019.10.12}{15}{section.1.43}% 
 \contentsline {section}{\numberline {1.44}2019.10.13}{15}{section.1.44}% 
 \contentsline {section}{\numberline {1.45}2019.10.14}{15}{section.1.45}% 
+\contentsline {section}{\numberline {1.46}2019.10.15}{15}{section.1.46}% 
 \contentsline {chapter}{\numberline {2}基于质量表的核子相互作用}{16}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}引言}{16}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}mass-date-based相互作用}{16}{section.2.2}% 
@@ -51,3 +52,4 @@
 \contentsline {subsection}{\numberline {2.2.2}$V_{ip-jn}$相互作用}{17}{subsection.2.2.2}% 
 \contentsline {subsection}{\numberline {2.2.3}同类核子间的相互作用}{18}{subsection.2.2.3}% 
 \contentsline {section}{\numberline {2.3}mass-date-based相互作用的统计规律}{21}{section.2.3}% 
+\contentsline {chapter}{\numberline {3}Exactly solvable models of nuclei}{27}{chapter.3}% 
