@@ -1,4 +1,4 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
@@ -29,6 +29,12 @@ EFRON~B.
 \newblock Annals of Statistics, 1979, 7\penalty0 (1):\penalty0 1-26.
 \newblock \url{<Go to ISI>://WOS:A1979GL00300001}.
 \newblock DOI: \doi{DOI}, \doi{10.1214/aos/1176344552}.
+
+\bibitem[Heyde et~al.(2014)Heyde and Isacker]{RN1176}
+HEYDE~K, ISACKER~P.
+\newblock Exactly solvable models of nuclei\allowbreak[J/OL].
+\newblock Scholarpedia, 2014, 9\penalty0 (2).
+\newblock \url{https://doi.org/10.4249/scholarpedia.31279}.
 
 \bibitem[Mouze et~al.(1996)Mouze and Rocaboy]{RN560}
 MOUZE~G, ROCABOY~A.
