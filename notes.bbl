@@ -1,34 +1,10 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
   \urlstyle{same}\fi
 \providecommand{\href}[2]{\url{#2}}
 \providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
-
-\bibitem[Bertsch et~al.(2017)Bertsch and Bingham]{RN569}
-BERTSCH~G~F, BINGHAM~D.
-\newblock Estimating parameter uncertainty in binding-energy models by the
-  frequency-domain bootstrap\allowbreak[J/OL].
-\newblock Phys Rev Lett, 2017, 119\penalty0 (25):\penalty0 252501.
-\newblock \url{https://www.ncbi.nlm.nih.gov/pubmed/29303311}.
-\newblock DOI: \doi{10.1103/PhysRevLett.119.252501}.
-
-\bibitem[Kreiss et~al.(2012)Kreiss and Lahiri]{RN572}
-KREISS~J~P, LAHIRI~S~N.
-\newblock 1 - bootstrap methods for time series: volume~30\allowbreak[M/OL].
-\newblock Elsevier, 2012: 3-26.
-\newblock
-  \url{http://www.sciencedirect.com/science/article/pii/B9780444538581000016}.
-\newblock DOI: \doi{https://doi.org/10.1016/B978-0-444-53858-1.00001-6}.
-
-\bibitem[Efron(1979)]{RN570}
-EFRON~B.
-\newblock 1977 rietz lecture - bootstrap methods - another look at the
-  jackknife\allowbreak[J/OL].
-\newblock Annals of Statistics, 1979, 7\penalty0 (1):\penalty0 1-26.
-\newblock \url{<Go to ISI>://WOS:A1979GL00300001}.
-\newblock DOI: \doi{DOI}, \doi{10.1214/aos/1176344552}.
 
 \bibitem[Heyde et~al.(2014)Heyde and Isacker]{RN1176}
 HEYDE~K, ISACKER~P.

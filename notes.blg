@@ -12,45 +12,45 @@ I'm skipping whatever remains of this command
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: reference.bib
-You've used 5 entries,
+You've used 2 entries,
             4075 wiz_defined-function locations,
-            909 strings with 7223 characters,
-and the built_in function-call counts, 25061 in all, are:
-= -- 920
-> -- 2579
-< -- 2980
-+ -- 820
-- -- 322
-* -- 337
-:= -- 3610
-add.period$ -- 23
-call.type$ -- 5
-change.case$ -- 19
-chr.to.int$ -- 746
-cite$ -- 5
-duplicate$ -- 112
-empty$ -- 586
-format.name$ -- 55
-if$ -- 6371
+            876 strings with 6508 characters,
+and the built_in function-call counts, 8443 in all, are:
+= -- 273
+> -- 870
+< -- 1054
++ -- 293
+- -- 70
+* -- 115
+:= -- 1246
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 260
+cite$ -- 2
+duplicate$ -- 40
+empty$ -- 193
+format.name$ -- 24
+if$ -- 2135
 int.to.chr$ -- 1
-int.to.str$ -- 6
+int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 42
-num.names$ -- 15
-pop$ -- 1023
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 374
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 2
 quote$ -- 0
-skip$ -- 2583
+skip$ -- 835
 stack$ -- 0
-substring$ -- 1603
-swap$ -- 11
-text.length$ -- 53
+substring$ -- 491
+swap$ -- 4
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 59
+type$ -- 26
 warning$ -- 0
-while$ -- 68
+while$ -- 25
 width$ -- 0
-write$ -- 101
+write$ -- 43
 (There was 1 error message)

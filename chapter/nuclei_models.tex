@@ -4,3 +4,30 @@
 原子核是一个多体系统，主要受复杂和有效的 in-mideum 相互作用所控制，因此具有丰富的谱学性质。这些效应包括闭合壳层附近核子的独立运动，关联的两核子对的形成，以及由许多核子的协同运动引起的振动和转动的集体效应。目前对所观察到的各种核激发态的理论描述有两种可能的微观方法作为出发点。自洽平均场方法从一个给定的核子的有效相互作用或能量泛函开始来构造平均核子场；这导致了我们对集体模型的描述是从构成一个给定核子的所有中子和质子之间的相互关联来开始的。另一方面，球形核壳模型包含了在某种封闭壳结构外中子和质子的所有可能的相互作用。这两种方法都使用数值算法，因此是计算密集型的。
 
 本文综述了这两种方法中能被精确地求解的一类子模型，并在此过程中强调了与原子核中成对关联系统的性质以及集体运动模式有关的一些一般结果。完全可解的模型必须具有图解性质，虽然仅对特定的核有效。但它们可以作为使用数值方法建立更真实的模型研究核素图大区域（同位素系列或同中子素系列）数据的参考或“基准”。这里的重点是精确可解模型本身，而不是与数据的比较。本文最后提到的几本书讨论了精确可解模型的后一个方面。
+
+\section{An algebraic formulation of the quantal $n$-body problem}
+对称性分析和代数方法不局限于核物理中的某些模型，而是可以普遍应用于寻找量子$-$体问题的特殊解。这一部分将对此进行解释。
+
+为了描述非相对论量子力学中$n-$体系统的定态性质，需要求解与时间无关的薛定谔方程：
+\begin{equation}\label{eq_schrodinger}
+\widehat{H}\Psi(\epsilon_1,\cdot,\epsilon_n)=E\Psi(\epsilon_1,\cdots,\epsilon_n)
+\end{equation}
+其中$H$是多体系统的哈密顿量
+\begin{equation}\label{eq_hamilt}
+\widehat{H}=\sum_{k=1}^n\left(\frac{\widehat{p}^2_k}{2m_k}+\widehat{V}_1(\epsilon_k)\right)+\sum_{k<l}\widehat{V}_2(\epsilon_k,\epsilon_l)+\sum_{k<l<m}\widehat{V}_3(\epsilon_k,\epsilon_l,\epsilon_m)+\cdots
+\end{equation}
+其中$m_k$和$\widehat{p}_k^2/2m_k$分别是第$k$个粒子的质量和动能。这些粒子可以是玻色子或费米子。它们可能携带一个本征自旋和/或具有其他本征变量的特征（例如同位旋，其投影可以区分中子和质子）。这些粒子的变量$k$，以及他们的坐标变量$\bm{r}_k$，整体的被标记为$\epsilon_k$。除了动能和一个可能的外部势场$\widehat{V}_1(\epsilon_k)$外，哈密顿量\ref{eq_hamilt}还包含代表组成粒子之间的两体、三体以及可能的多体相互作用项。$n-$体量子系统的定态性质通过在满足额外的玻色子交换对称和费米子交换反对称的限制下，求解薛定谔方程方程\ref{eq_schrodinger}来决定。
+
+哈密顿量\ref{eq_hamilt}可以在二次量子化的情况下等效的写出来。描述一个独立的无相互作用的粒子体系的单体部分，定义了一个由单粒子态$\phi_\alpha(\epsilon_k)$构成的基，其中$\alpha$标记了一个在势场$\widehat{V}_1$下的定态。在狄拉克符号系统下，这个单粒子态可以写成$\left<\epsilon|\alpha\right>$，其中右矢$\left|\alpha\right>$可以利用产生算符$c_\alpha^\dag$作用在真空态上得到，$\left|\alpha\right>=c_\alpha^\dag\left|\textrm{o}\right>$。厄密伴随左矢也可以类似的利用湮灭算符$c_\alpha$，$\left<\alpha\right|=\left<\textrm{o}\right|c_\alpha$。一个多体系统的态现在可以简写为$\left|\alpha\beta\cdots\right>=c_\alpha^\dag c_\beta^\dag\cdots\left|\textrm{o}\right>$，而Pauli原理是自动满足的，当产生和湮灭算符$c_\alpha^\dag$、$c_\alpha$，在粒子是玻色子和费米子时分别满足对易关系和反对易关系，即
+\begin{equation*}
+[c_\alpha,c_\beta^\dag]=\delta_{\alpha\beta},\quad[c_\alpha,c_\beta]=[c_\alpha^\dag,c_\beta^\dag]=0
+\end{equation*}
+或者
+\begin{equation*}
+\{c_\alpha,c_\beta^\dag\}=\delta_{\alpha\beta},\quad\{c_\alpha,c_\beta\}=\{c_\alpha^\dag,c_\beta^\dag\}=0
+\end{equation*}
+根据前面的定义，哈密顿量\ref{eq_hamilt}可以重新写为
+\begin{equation}
+\widehat{H}=\sum_\alpha\epsilon_\alpha c_\alpha^\dag c_\alpha+\sum_{\alpha\beta\gamma\delta}v_{\alpha\beta\gamma\delta}c_\alpha^\dag c_\beta^\dag c_\gamma c_\delta+\cdots
+\end{equation}
+其中$\epsilon_\alpha$是与哈密顿量\ref{eq_hamilt}中的单体项相关的系数，$v_{\alpha\beta\gamma\delta}$是与两体相互作用相关的系数，以此类推。求和是单粒子态的整个完备集上的，在大多数应用中是无穷的。
