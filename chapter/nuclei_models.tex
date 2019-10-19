@@ -27,7 +27,25 @@
 \{c_\alpha,c_\beta^\dag\}=\delta_{\alpha\beta},\quad\{c_\alpha,c_\beta\}=\{c_\alpha^\dag,c_\beta^\dag\}=0
 \end{equation*}
 根据前面的定义，哈密顿量\ref{eq_hamilt}可以重新写为
-\begin{equation}
+\begin{equation}\label{eq_halmiton}
 \widehat{H}=\sum_\alpha\epsilon_\alpha c_\alpha^\dag c_\alpha+\sum_{\alpha\beta\gamma\delta}v_{\alpha\beta\gamma\delta}c_\alpha^\dag c_\beta^\dag c_\gamma c_\delta+\cdots
 \end{equation}
-其中$\epsilon_\alpha$是与哈密顿量\ref{eq_hamilt}中的单体项相关的系数，$v_{\alpha\beta\gamma\delta}$是与两体相互作用相关的系数，以此类推。求和是单粒子态的整个完备集上的，在大多数应用中是无穷的。
+其中$\epsilon_\alpha$是与哈密顿量\ref{eq_hamilt}中的单体项相关的系数，$v_{\alpha\beta\gamma\delta}$是与两体相互作用相关的系数，以此类推。求和是单粒子态的整个完备集上的，在大多数应用中是无穷的。即使是在一组有限的单粒子态上求和，薛定谔方程的求解仍然是一项艰巨的任务，因为因为随着粒子数和可能的单粒子态的增加，多体态的Hilbert空间的维数是指数增长的。
+
+与哈密顿量\ref{eq_halmiton}相关的薛定谔方程只有当粒子间无相互作用时才有直接解。在这种情况下，$n-$体问题变成了$n$个单体问题，使得这$n$个粒子的本征态变成了，当粒子是玻色子是是Slater恒等式，当粒子是费米子时是Sla	ter行列式，即，本征态是$c_{\alpha_1}^\dag\cdots c_{\alpha_1}^\dag\left|\textrm{o}\right>$的形式。Slater恒等式或行列式是Hartree(-Fock)理论提出的一个重要的概念。虽然平均势或平均场方法隐式的包含相关性，但是Hartree(-Fock)理论理论并未明确地处理两体和多体的相互作用，但是Slater恒等式或行列式确实提供了一个可以对角化粒子间相互作用的基。阻止人们进行这种对角线化的主要障碍是基的维数。因此，问题在于相互作用是否可以绕过对角化，并且可以被解析的处理。
+
+用对称性分析求解特定种类的哈密顿量\ref{eq_halmiton}的测量，是当发现它们可以用算符$\widehat{u}_{\alpha\beta}\equiv c_{\alpha}^\dag c_\beta$来重新表述时开始的。后一种算符对于玻色子和费米子都可以证明服从下列交换关系：
+\begin{equation}\label{eq_commu}
+[\widehat{u}_{\alpha\beta},\widehat{u}_{\alpha'\beta'}]=\widehat{u}_{\alpha\beta'}\delta_{\alpha'\beta}-\widehat{u}_{\alpha'\beta}\delta_{\alpha\beta'}
+\end{equation}
+这表明$\widehat{u}_{\alpha\beta}$生成酉李代数$U(\Omega)$，其中$\Omega$是单粒子基的维数。[在对易关系\ref{eq_commu}中，假定所有的指数都是指费米子或玻色子。而对于玻色子和费米子混合的情况将在后面单独处理。]代数$U(\Omega)$是这个问题的动力学代数$G_\textrm{dyn}$，在这个意义上，哈密顿量和其他算符都可以用它的生成元来表示。这不是哈密顿量的一个真正的对称性而是破缺的一个。与$G_\textrm{dyn}$相关的对称性的破缺是以一种特殊的方式进行的，这种方式可以方便地用一系列嵌套李代数来概括
+\begin{equation}\label{eq_classi}
+G_1\equiv G_\textrm{dyn}\supset G_2\supset\cdots\supset G_s\equiv G_\textrm{sym}
+\end{equation}
+其中，在嵌套中的最后的代数$G_\textrm{sym}=\textrm{SO}(3)$是真实对称性的代数，其生成元与哈密顿量对易。例。如，如果哈密顿量是转动不变的，那么其对称性代数是在三维转动的代数中的，$G_\textrm{sym}=\textrm{SO}(3)$。
+
+为了理解分类\ref{eq_classi}在与多体哈密顿量\ref{eq_halmiton}的联系中的相关性，应该注意到，对于一个特定的嵌套代数链，应该对应于一类可以写成与链中的代数相关联的Casimir算子的线性组合哈密顿量，
+\begin{equation}
+\widehat{H}_\textrm{DS}=\sum_{r=1}^s\sum_m\kappa_{rm}\widehat{C}_m[G_r]
+\end{equation}
+其中，$\kappa_{rm}$是任意的系数。
