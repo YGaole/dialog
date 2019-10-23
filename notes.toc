@@ -6,13 +6,20 @@
 \contentsline {section}{\numberline {1.5}2019.10.16}{1}{section.1.5}% 
 \contentsline {section}{\numberline {1.6}2019.10.17}{1}{section.1.6}% 
 \contentsline {section}{\numberline {1.7}2019.10.18}{1}{section.1.7}% 
-\contentsline {chapter}{\numberline {2}基于质量表的核子相互作用}{2}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}引言}{2}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}mass-date-based相互作用}{2}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}$V_{1p-1n}$相互作用}{2}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}$V_{ip-jn}$相互作用}{3}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}同类核子间的相互作用}{4}{subsection.2.2.3}% 
-\contentsline {section}{\numberline {2.3}mass-date-based相互作用的统计规律}{7}{section.2.3}% 
-\contentsline {chapter}{\numberline {3}Exactly solvable models of nuclei}{13}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Introduction}{13}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}An algebraic formulation of the quantal $n$-body problem}{13}{section.3.2}% 
+\contentsline {section}{\numberline {1.8}2019.10.19}{1}{section.1.8}% 
+\contentsline {section}{\numberline {1.9}2019.10.20}{2}{section.1.9}% 
+\contentsline {section}{\numberline {1.10}2019.10.21}{2}{section.1.10}% 
+\contentsline {section}{\numberline {1.11}2019.10.22}{2}{section.1.11}% 
+\contentsline {chapter}{\numberline {2}基于质量表的核子相互作用}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}引言}{3}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}mass-date-based相互作用}{3}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}$V_{1p-1n}$相互作用}{3}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}$V_{ip-jn}$相互作用}{4}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}同类核子间的相互作用}{5}{subsection.2.2.3}% 
+\contentsline {section}{\numberline {2.3}mass-date-based相互作用的统计规律}{8}{section.2.3}% 
+\contentsline {chapter}{\numberline {3}Exactly solvable models of nuclei}{14}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduction}{14}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}An algebraic formulation of the quantal $n$-body problem}{14}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}The nuclear shell model}{16}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Racah's seniority model}{16}{subsection.3.3.1}% 
+\contentsline {section}{\numberline {3.4}Identical nucleons}{17}{section.3.4}% 
