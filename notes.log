@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.30)  23 OCT 2019 20:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.30)  28 OCT 2019 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2196,7 +2196,7 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 28.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<cover.jpg, id=131, 616.704pt x 493.3632pt>
+<cover.jpg, id=151, 616.704pt x 493.3632pt>
 File: cover.jpg Graphic file (type jpg)
 <use cover.jpg>
 Package pdftex.def Info: cover.jpg  used on input line 28.
@@ -2277,7 +2277,7 @@ File: c70zhkai.fd 2009/09/23 4.8.2
 )
 Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
 e (quanjiao) on input line 28.
-<logo.png, id=149, 694.595pt x 694.595pt>
+<logo.png, id=169, 694.595pt x 694.595pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 28.
@@ -2367,7 +2367,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 5.
 
-<figure/picV1p1n.jpg, id=340, 275.5896pt x 274.626pt>
+<figure/picV1p1n.jpg, id=369, 275.5896pt x 274.626pt>
 File: figure/picV1p1n.jpg Graphic file (type jpg)
 <use figure/picV1p1n.jpg>
 Package pdftex.def Info: figure/picV1p1n.jpg  used on input line 14.
@@ -2403,7 +2403,7 @@ txtlf/m/n/10 (\C70/rm/m/n/10/51 v
 
 
  <./figure/picV1p1n.jpg>]
-<figure/oV1p1n.pdf, id=362, 1355.0625pt x 587.19376pt>
+<figure/oV1p1n.pdf, id=391, 1355.0625pt x 587.19376pt>
 File: figure/oV1p1n.pdf Graphic file (type pdf)
 <use figure/oV1p1n.pdf>
 Package pdftex.def Info: figure/oV1p1n.pdf  used on input line 28.
@@ -2427,17 +2427,17 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.3pt on input line 63.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 5.5pt on input line 63.
-<figure/zV1n1ne.png, id=396, 347.2975pt x 404.51125pt>
+<figure/zV1n1ne.png, id=425, 347.2975pt x 404.51125pt>
 File: figure/zV1n1ne.png Graphic file (type png)
 <use figure/zV1n1ne.png>
 Package pdftex.def Info: figure/zV1n1ne.png  used on input line 73.
 (pdftex.def)             Requested size: 209.12683pt x 243.58508pt.
-<figure/expVPn50eN.pdf, id=399, 1355.0625pt x 587.19376pt>
+<figure/expVPn50eN.pdf, id=428, 1355.0625pt x 587.19376pt>
 File: figure/expVPn50eN.pdf Graphic file (type pdf)
 <use figure/expVPn50eN.pdf>
 Package pdftex.def Info: figure/expVPn50eN.pdf  used on input line 85.
 (pdftex.def)             Requested size: 376.42575pt x 163.11395pt.
-<figure/oV1n1n.pdf, id=400, 1334.9875pt x 567.11874pt>
+<figure/oV1n1n.pdf, id=429, 1334.9875pt x 567.11874pt>
 File: figure/oV1n1n.pdf Graphic file (type pdf)
 <use figure/oV1n1n.pdf>
 Package pdftex.def Info: figure/oV1n1n.pdf  used on input line 90.
@@ -2445,7 +2445,7 @@ Package pdftex.def Info: figure/oV1n1n.pdf  used on input line 90.
 
 (c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 [5 <./figure/zV1n1ne.png>]
-<./figure/zV1n1no.png, id=420, 352.31625pt x 403.5075pt>
+<./figure/zV1n1no.png, id=449, 352.31625pt x 403.5075pt>
 File: ./figure/zV1n1no.png Graphic file (type png)
 <use ./figure/zV1n1no.png>
 Package pdftex.def Info: ./figure/zV1n1no.png  used on input line 104.
@@ -2457,7 +2457,7 @@ Package pdftex.def Info: ./figure/zV1n1no.png  used on input line 104.
 pdfTeX warning: pdflatex.exe (file ./figure/oV1n1n.pdf): PDF inclusion: multipl
 e pdfs with page group included in a single page
 >]
-<./figure/expVIn50oN.pdf, id=460, 1355.0625pt x 587.19376pt>
+<./figure/expVIn50oN.pdf, id=490, 1355.0625pt x 587.19376pt>
 File: ./figure/expVIn50oN.pdf Graphic file (type pdf)
 <use ./figure/expVIn50oN.pdf>
 Package pdftex.def Info: ./figure/expVIn50oN.pdf  used on input line 124.
@@ -2465,7 +2465,7 @@ Package pdftex.def Info: ./figure/expVIn50oN.pdf  used on input line 124.
 
 (c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 [7 <./figure/zV1n1no.png>]
-<figure/YE3fiteV1p1neA50.pdf, id=472, 626.34pt x 510.90875pt>
+<figure/YE3fiteV1p1neA50.pdf, id=502, 626.34pt x 510.90875pt>
 File: figure/YE3fiteV1p1neA50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p1neA50.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p1neA50.pdf  used on input line 141.
@@ -2488,7 +2488,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--141
 8/68 8
  []
 
-<figure/YE3fiteV1p1noA50.pdf, id=475, 621.32124pt x 510.90875pt>
+<figure/YE3fiteV1p1noA50.pdf, id=505, 621.32124pt x 510.90875pt>
 File: figure/YE3fiteV1p1noA50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p1noA50.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p1noA50.pdf  used on input line 143.
@@ -2501,7 +2501,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--143
 8/68 8
  []
 
-<figure/YE3fiteV1p1n50.pdf, id=480, 626.34pt x 499.8675pt>
+<figure/YE3fiteV1p1n50.pdf, id=510, 626.34pt x 499.8675pt>
 File: figure/YE3fiteV1p1n50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p1n50.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p1n50.pdf  used on input line 148.
@@ -2516,7 +2516,7 @@ n: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./figure/YE3fiteV1p1noA50.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >]
-<figure/YE3fiteV1p2neA50.pdf, id=557, 616.3025pt x 510.90875pt>
+<figure/YE3fiteV1p2neA50.pdf, id=586, 616.3025pt x 510.90875pt>
 File: figure/YE3fiteV1p2neA50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p2neA50.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p2neA50.pdf  used on input line 154.
@@ -2529,7 +2529,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 8/68 8
  []
 
-<figure/YE3fiteV1p2noA50.pdf, id=560, 611.28375pt x 499.8675pt>
+<figure/YE3fiteV1p2noA50.pdf, id=589, 611.28375pt x 499.8675pt>
 File: figure/YE3fiteV1p2noA50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p2noA50.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p2noA50.pdf  used on input line 156.
@@ -2542,12 +2542,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--156
 8/68 8
  []
 
-<figure/YE3fiteV1p2n50.pdf, id=565, 626.34pt x 499.8675pt>
+<figure/YE3fiteV1p2n50.pdf, id=594, 626.34pt x 499.8675pt>
 File: figure/YE3fiteV1p2n50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p2n50.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p2n50.pdf  used on input line 161.
 (pdftex.def)             Requested size: 250.95476pt x 200.27905pt.
-<figure/YE3fiteV2p1neA50.pdf, id=566, 616.3025pt x 510.90875pt>
+<figure/YE3fiteV2p1neA50.pdf, id=595, 616.3025pt x 510.90875pt>
 File: figure/YE3fiteV2p1neA50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV2p1neA50.pdf>
 Package pdftex.def Info: figure/YE3fiteV2p1neA50.pdf  used on input line 167.
@@ -2560,7 +2560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--167
 8/68 8
  []
 
-<figure/YE3fiteV2p1noA50.pdf, id=569, 602.25pt x 510.90875pt>
+<figure/YE3fiteV2p1noA50.pdf, id=598, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV2p1noA50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV2p1noA50.pdf>
 Package pdftex.def Info: figure/YE3fiteV2p1noA50.pdf  used on input line 169.
@@ -2573,7 +2573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--169
 8/68 8
  []
 
-<figure/YE3fiteV2p1n50.pdf, id=574, 626.34pt x 510.90875pt>
+<figure/YE3fiteV2p1n50.pdf, id=603, 626.34pt x 510.90875pt>
 File: figure/YE3fiteV2p1n50.pdf Graphic file (type pdf)
 <use figure/YE3fiteV2p1n50.pdf>
 Package pdftex.def Info: figure/YE3fiteV2p1n50.pdf  used on input line 174.
@@ -2592,7 +2592,7 @@ n: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./figure/YE3fiteV1p2n50.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
 >]
-<figure/YE3fiteV1p3neA100.pdf, id=674, 602.25pt x 510.90875pt>
+<figure/YE3fiteV1p3neA100.pdf, id=703, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV1p3neA100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p3neA100.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p3neA100.pdf  used on input line 180.
@@ -2605,7 +2605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--180
 8/68 8
  []
 
-<figure/YE3fiteV1p3noA100.pdf, id=677, 602.25pt x 499.8675pt>
+<figure/YE3fiteV1p3noA100.pdf, id=706, 602.25pt x 499.8675pt>
 File: figure/YE3fiteV1p3noA100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p3noA100.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p3noA100.pdf  used on input line 182.
@@ -2618,7 +2618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 8/68 8
  []
 
-<figure/YE3fiteV1p3n100.pdf, id=682, 626.34pt x 510.90875pt>
+<figure/YE3fiteV1p3n100.pdf, id=711, 626.34pt x 510.90875pt>
 File: figure/YE3fiteV1p3n100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV1p3n100.pdf>
 Package pdftex.def Info: figure/YE3fiteV1p3n100.pdf  used on input line 187.
@@ -2641,7 +2641,7 @@ on: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./figure/YE3fiteV1p3noA100.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
 >]
-<figure/YE3fiteV3p1neA100.pdf, id=811, 602.25pt x 510.90875pt>
+<figure/YE3fiteV3p1neA100.pdf, id=841, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV3p1neA100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV3p1neA100.pdf>
 Package pdftex.def Info: figure/YE3fiteV3p1neA100.pdf  used on input line 193.
@@ -2654,7 +2654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--193
 8/68 8
  []
 
-<figure/YE3fiteV3p1noA100.pdf, id=814, 602.25pt x 510.90875pt>
+<figure/YE3fiteV3p1noA100.pdf, id=844, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV3p1noA100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV3p1noA100.pdf>
 Package pdftex.def Info: figure/YE3fiteV3p1noA100.pdf  used on input line 195.
@@ -2667,12 +2667,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--195
 8/68 8
  []
 
-<figure/YE3fiteV3p1n100.pdf, id=819, 602.25pt x 499.8675pt>
+<figure/YE3fiteV3p1n100.pdf, id=849, 602.25pt x 499.8675pt>
 File: figure/YE3fiteV3p1n100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV3p1n100.pdf>
 Package pdftex.def Info: figure/YE3fiteV3p1n100.pdf  used on input line 200.
 (pdftex.def)             Requested size: 250.95476pt x 208.29541pt.
-<figure/YE3fiteV2p2neA100.pdf, id=820, 602.25pt x 510.90875pt>
+<figure/YE3fiteV2p2neA100.pdf, id=850, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV2p2neA100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV2p2neA100.pdf>
 Package pdftex.def Info: figure/YE3fiteV2p2neA100.pdf  used on input line 206.
@@ -2685,7 +2685,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--206
 8/68 8
  []
 
-<figure/YE3fiteV2p2noA100.pdf, id=823, 602.25pt x 510.90875pt>
+<figure/YE3fiteV2p2noA100.pdf, id=853, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV2p2noA100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV2p2noA100.pdf>
 Package pdftex.def Info: figure/YE3fiteV2p2noA100.pdf  used on input line 208.
@@ -2698,7 +2698,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--208
 8/68 8
  []
 
-<figure/YE3fiteV2p2n100.pdf, id=828, 602.25pt x 510.90875pt>
+<figure/YE3fiteV2p2n100.pdf, id=858, 602.25pt x 510.90875pt>
 File: figure/YE3fiteV2p2n100.pdf Graphic file (type pdf)
 <use figure/YE3fiteV2p2n100.pdf>
 Package pdftex.def Info: figure/YE3fiteV2p2n100.pdf  used on input line 213.
@@ -2762,7 +2762,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ]
 (c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 [15]
-<figure/F_Pb210.png, id=1075, 702.625pt x 400.49625pt>
+<figure/F_Pb210.png, id=1105, 702.625pt x 400.49625pt>
 File: figure/F_Pb210.png Graphic file (type png)
 <use figure/F_Pb210.png>
 Package pdftex.def Info: figure/F_Pb210.png  used on input line 83.
@@ -2820,61 +2820,57 @@ m/m/n/10/68 8 \C70/rm/m/n/10/5b P|\C70/rm/m/n/10/30 ^^B| \C70/rm/m/n/10/4e ^^M
 \C70/rm/m/n/10/53 ˜$\LMS/ntxsy/m/n/10 ^^B$\C70/rm/m/n/10/88 h
  []
 
-
-Overfull \hbox (104.37622pt too wide) in paragraph at lines 120--121
-[]\C70/rm/m/n/10/51 s \C70/rm/m/n/10/4e é \C70/rm/m/n/10/53 ü \C70/rm/m/n/10/5b
- P \C70/rm/m/n/10/68 8 \C70/rm/m/n/10/91 M \C70/rm/m/n/10/5b ˘ \C70/rm/m/n/10/5
-1 s \C70/rm/m/n/10/80 T \C70/rm/m/n/10/76 Ñ \C70/rm/m/n/10/8b ® ∫|\C70/rm/m/n/1
-0/ff ^^L| \C70/rm/m/n/10/4f   \C70/rm/m/n/10/7e ﬂ \C70/rm/m/n/10/4e 
- \C70/rm/m/n/10/66 / \C70/rm/m/n/10/53 ◊ \C70/rm/m/n/10/52 0 \C70/rm/m/n/10/51 
-› \C70/rm/m/n/10/80 Z \C70/rm/m/n/10/60 ^^A \C70/rm/m/n/10/8d Ö \C70/rm/m/n/10/
-6d A \C70/rm/m/n/10/60 ' \C70/rm/m/n/10/59 ^^D \C70/rm/m/n/10/74 ^^F \C70/rm/m/
-n/10/76 Ñ \C70/rm/m/n/10/54 / \C70/rm/m/n/10/53 —|\C70/rm/m/n/10/ff ^^L| \C70/r
-m/m/n/10/51 v \C70/rm/m/n/10/66 / \C70/rm/m/n/10/57 (\T1/ntxtlf/m/n/10 1957\C70
-/rm/m/n/10/5e t \C70/rm/m/n/10/75 1\T1/ntxtlf/m/n/10 Bardeen,Cooper\C70/rm/m/n/
-10/54 å\T1/ntxtlf/m/n/10 Schrieffer\C70/rm/m/n/10/63 –
- []
-
-<figure/F_richardson.png, id=1100, 702.625pt x 259.97125pt>
+<figure/F_richardson.png, id=1130, 702.625pt x 259.97125pt>
 File: figure/F_richardson.png Graphic file (type png)
 <use figure/F_richardson.png>
 Package pdftex.def Info: figure/F_richardson.png  used on input line 139.
 (pdftex.def)             Requested size: 250.95476pt x 92.85175pt.
-
-Underfull \hbox (badness 3098) in paragraph at lines 140--140
-[][]\C70/rm/bx/n/9/56 ˛ \T1/ntxtlf/b/n/9 3.2[][]: []|\C70/rm/m/n/9/4e $ * \C70/
-rm/m/n/9/68 8 \C70/rm/m/n/9/5b P \C70/rm/m/n/9/57 (\T1/ntxtlf/m/n/9 5\C70/rm/m/
-n/9/4e * \C70/rm/m/n/9/53 U \C70/rm/m/n/9/7c í \C70/rm/m/n/9/5b P \C70/rm/m/n/9
-/8f h \C70/rm/m/n/9/90 S \C70/rm/m/n/9/4e 
- \C70/rm/m/n/9/76 Ñ \C70/rm/m/n/9/52 ^^F \C70/rm/m/n/9/5e ^^C \C70/rm/m/n/9/76 
-Ñ\T1/ntxtlf/m/n/9 Richardson\C70/rm/m/n/9/65 π \C70/rm/m/n/9/7a  \C70/rm/m/n/9
-/76 Ñ \C70/rm/m/n/9/56 ˛ \C70/rm/m/n/9/5f b \C70/rm/m/n/9/89 „|\C70/rm/m/n/9/30
- ^^B| \C70/rm/m/n/9/6c B \C70/rm/m/n/9/54 å$\U/ntxmia/m/it/9 ^^F[]
-[]\LMS/ntxsy/m/n/9 ùπ\OT1/ntxtlf/m/n/9 2\OML/ntxmi/m/it/9 ^^O[] \LMS/ntxsy/m/n/
-9 ^^@ \OML/ntxmi/m/it/9 E\LMS/ntxsy/m/n/9 ∫ ^^Q
- []
-
-
-Underfull \hbox (badness 2088) in paragraph at lines 140--140
-\OML/ntxmi/m/it/9 y\LMS/ntxsy/m/n/9 π\OML/ntxmi/m/it/9 E\LMS/ntxsy/m/n/9 ∫π[][]
-∫$\C70/rm/m/n/9/4f \ \C70/rm/m/n/9/4e :$\OML/ntxmi/m/it/9 E$\T1/ntxtlf/m/n/9 (i
-n MeV)\C70/rm/m/n/9/76 Ñ \C70/rm/m/n/9/51 ˝ \C70/rm/m/n/9/65 p \C70/rm/m/n/9/88
- ´ \C70/rm/m/n/9/75 ; \C70/rm/m/n/9/51 ˙|\C70/rm/m/n/9/30 ^^B| \C70/rm/m/n/9/8b
- Â \C70/rm/m/n/9/66 Ú \C70/rm/m/n/9/7e ø\T1/ntxtlf/m/n/9 (blue)\C70/rm/m/n/9/4e
- ^^N \C70/rm/m/n/9/66 Ú \C70/rm/m/n/9/7e ø$\OML/ntxmi/m/it/9 y \U/ntxmia/m/it/9
- = \OT1/ntxtlf/m/n/9 1\LMS/ntxsy/m/n/9 ù\OML/ntxmi/m/it/9 g$\T1/ntxtlf/m/n/9 (r
-ed)\C70/rm/m/n/9/76 Ñ \C70/rm/m/n/9/4e § \C70/rm/m/n/9/70 π\T1/ntxtlf/m/n/9 (re
-d dots)\C70/rm/m/n/9/5b ˘ \C70/rm/m/n/9/5e î
+(c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[18]
+Overfull \hbox (11.39116pt too wide) in paragraph at lines 161--163
+\C70/rm/m/n/10/75 1 \C70/rm/m/n/10/4e é \C70/rm/m/n/10/5b É \C70/rm/m/n/10/66 /
+ \C70/rm/m/n/10/7e ø \C70/rm/m/n/10/60 ' \C70/rm/m/n/10/54 å \C70/rm/m/n/10/4e 
+å \C70/rm/m/n/10/6b ! \C70/rm/m/n/10/4f ù \C70/rm/m/n/10/8d V \C70/rm/m/n/10/4e
+ é \C70/rm/m/n/10/68 8 \C70/rm/m/n/10/5b P \C70/rm/m/n/10/65 p$\OML/ntxmi/m/it/
+10 n$\C70/rm/m/n/10/76 Ñ|\C70/rm/m/n/10/ff ^^L| \C70/rm/m/n/10/62 @ \C70/rm/m/n
+/10/4e Â \C70/rm/m/n/10/8f Ÿ \C70/rm/m/n/10/4e * \C70/rm/m/n/10/7e ” \C70/rm/m/
+n/10/67 ú \C70/rm/m/n/10/53 Ô \C70/rm/m/n/10/4e Â \C70/rm/m/n/10/88 ´ \C70/rm/m
+/n/10/8b § \C70/rm/m/n/10/4e : \C70/rm/m/n/10/66 / \C70/rm/m/n/10/4e ^^@ *\T1/n
+txtlf/m/n/10 Racah's se-nior-ity\C70/rm/m/n/10/51 l \C70/rm/m/n/10/5f ^^O[][]\T
+1/ntxtlf/m/n/10 3.13[][]\C70/rm/m/n/10/76 Ñ
  []
 
 (c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-[18])
+[19 <./figure/F_richardson.png>]
+<figure/F_pairs.png, id=1159, 852.18375pt x 389.455pt>
+File: figure/F_pairs.png Graphic file (type png)
+<use figure/F_pairs.png>
+Package pdftex.def Info: figure/F_pairs.png  used on input line 180.
+(pdftex.def)             Requested size: 250.95476pt x 114.68617pt.
+
+Overfull \hbox (2.9276pt too wide) in paragraph at lines 191--193
+\C70/rm/m/n/10/63 ^^G \C70/rm/m/n/10/88 h$\OML/ntxmi/m/it/10 ^^V$\C70/rm/m/n/10
+/66 / \C70/rm/m/n/10/81 Í \C70/rm/m/n/10/65 À \C70/rm/m/n/10/62 ï \C70/rm/m/n/1
+0/5f q|\C70/rm/m/n/10/ff ^^L| \C70/rm/m/n/10/53 : \C70/rm/m/n/10/52 ^^F$\OML/nt
+xmi/m/it/10 S \U/ntxmia/m/it/10 = \OT1/ntxtlf/m/n/10 1$\C70/rm/m/n/10/76 Ñ \C70
+/rm/m/n/10/5b ˘ \C70/rm/m/n/10/76 Ñ \C70/rm/m/n/10/4e 	 * \C70/rm/m/n/10/7a z \
+C70/rm/m/n/10/95 Ù \C70/rm/m/n/10/65 π \C70/rm/m/n/10/54 ^^Q|\C70/rm/m/n/10/30 
+^^B| \C70/rm/m/n/10/91 M \C70/rm/m/n/10/5b ˘ \C70/rm/m/n/10/76 ¯ \C70/rm/m/n/10
+/4e í \C70/rm/m/n/10/4f \ \C70/rm/m/n/10/75 ([][]\T1/ntxtlf/m/n/10 3.23[][]\C70
+/rm/m/n/10/73 ∞ \C70/rm/m/n/10/57 ( \C70/rm/m/n/10/53 ^^E \C70/rm/m/n/10/54 + \
+C70/rm/m/n/10/4e $ * \C70/rm/m/n/10/53 ¬ \C70/rm/m/n/10/65 p|\C70/rm/m/n/10/ff 
+^^L| $\OML/ntxmi/m/it/10 g$\C70/rm/m/n/10/54 å$\OML/ntxmi/m/it/10 g[]$|\C70/rm/
+m/n/10/ff ^^L|
+ []
+
 (c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-[19 <./figure/F_richardson.png>] (./notes.bbl
+[20 <./figure/F_pairs.png>])
+(c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[21] (./notes.bbl
 (c:/texlive/2019/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf))
 
 AED: lastpage setting LastPage
-[20
+[22
 
 
 ]
@@ -2885,34 +2881,34 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 881062FA6EC728F46AD08972BCC1F563;3951.
+(rerunfilecheck)             Checksum: ED61CD29F211889C4A1305B037DAF49A;4691.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 47545 strings out of 492623
- 879053 string characters out of 6133290
+ 47650 strings out of 492623
+ 880754 string characters out of 6133290
  1228110 words of memory out of 5000000
- 50009 multiletter control sequences out of 15000+600000
- 734399 words of font info for 524 fonts, out of 8000000 for 9000
+ 50083 multiletter control sequences out of 15000+600000
+ 736019 words of font info for 530 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,18n,124p,2634b,1877s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,18n,124p,2634b,1936s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
 imhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
 /Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
 /Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
 .ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Wind
-ows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf>
+s/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
+ows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf>
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+hei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/F
+onts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/W
 indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
 tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
 simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
-s/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c
 :/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
 n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
@@ -2930,38 +2926,40 @@ nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
 ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
 c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
 imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
-/Fonts/simsun.ttc>{c:/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf
-.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Windows/Fonts/
-simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{c:/texlive/2019/texmf-dist/font
+s/enc/dvips/newtx/ntx-ot1-tlf.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
 s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
-:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
 i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
-ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>{c:/tex
-live/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<c:/Windows/Fonts/sim
-hei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/F
+ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf>{c:/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-
+tlf.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/F
 onts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/W
 indows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.t
 tf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/
-simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
 s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
-:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/texlive/2019/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/font
-s/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public
-/tex-gyre/qtmr.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmr
-i.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/newtx/rntxbmi.pfb><c:/texl
-ive/2019/texmf-dist/fonts/type1/public/newtx/rntxmi.pfb><c:/texlive/2019/texmf-
-dist/fonts/type1/public/newtx/rntxmi5.pfb><c:/texlive/2019/texmf-dist/fonts/typ
-e1/public/newtx/rntxmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/txfo
-nts/rtxmi.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb><
-c:/texlive/2019/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2019
-/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2019/texmf-dist/font
-s/type1/public/txfonts/txmia.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public
-/txfonts/txsyc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/newtx/txsys.p
-fb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on notes.pdf (22 pages, 13269709 bytes).
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:
+/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2019/
+texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2019/texmf-dist/fon
+ts/type1/public/tex-gyre/qtmri.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publ
+ic/newtx/rntxbmi.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/newtx/rntxm
+i.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/newtx/rntxmi5.pfb><c:/texl
+ive/2019/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb><c:/texlive/2019/texmf
+-dist/fonts/type1/public/txfonts/rtxmi.pfb><c:/texlive/2019/texmf-dist/fonts/ty
+pe1/public/newtx/rtxmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/newt
+x/rtxmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c
+:/texlive/2019/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2019/t
+exmf-dist/fonts/type1/public/txfonts/txmia.pfb><c:/texlive/2019/texmf-dist/font
+s/type1/public/txfonts/txsyc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public
+/newtx/txsys.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+
+Output written on notes.pdf (24 pages, 13340838 bytes).
 PDF statistics:
- 1573 PDF objects out of 1728 (max. 8388607)
- 1225 compressed objects within 13 object streams
- 121 named destinations out of 1000 (max. 500000)
- 758 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1655 PDF objects out of 1728 (max. 8388607)
+ 1300 compressed objects within 13 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 807 words of extra memory for PDF output out of 10000 (max. 10000000)
 

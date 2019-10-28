@@ -98,7 +98,7 @@ U(2j+1)&\supset&Sp(2j+1)&\supset&SU(2)\\
 在定义\ref{eq_dif}中，seniority的出现作为与代数$Sp(2j+1)$相关的指标。这样的缺点是，依赖于$j$，代数可能是非常大的。问题可能变得更加复杂，当核子是非全同的，并且具有同位旋$t=\frac{1}{2}$。单粒子态的总数就变成了$\Omega\equiv(2j+1)(2t+1)$，很快就会遇到一个令人生畏的群理论的还原问题。幸运的是，一个更简单的可选择的seniority的定义可以通过代数学的语言给出，其不会随$j$改变。这个想法由Kerman(对于$t=0$的情况(即全同粒子))和Helmers(对于一般的$t$)同时且独立的提出来。其来源于产生和湮灭粒子的的$\widehat{S}_+^j$和$\widehat{S}_-^j$算符，以及具有第三类产生子$\widehat{S}^j_z$(有一个粒子产生同时有一个粒子湮灭的算符)的对易子。这一类算符的集合，即所谓的准自旋算符，在对易下封闭，并且形成(酉)辛代数(Sp(4t+2))，其可以被证明与$Sp(2j+1)$在分类\ref{eq_dif}中引入的的等同的性质。
 
 配对问题的准自旋公式依赖于事实：配对相互作用是与$Sp(4t+2)$代数的二阶 Casimir 算符相关的。这允许对相同粒子$(t=0)$以及中子和质子$(t=\frac{1}{2})$的情况的本征值有个同时且简单的推导。这些年，许多结果都被推导出来了，并且考虑了许多在这两种情况下的扩展，其在下面进行单独的讨论。
-\section{Identical nucleons}
+\subsubsection{Identical nucleons}
 对于$t=0$的情况，其包含了与$\textrm{SU}(2)$同构的代数Sp(2)。由于它与自旋代数有着形式上的相似性，“准自旋”这个名字是由Kerman创造的，而且这个术语适用于所有情况，即使$t\ne0$。准自旋代数Sp(2)\~SU(2)可以被得到，通过注意一点，在二次量子化中，在公式\ref{eq_eq8}中定义的配对相互作用被写为
 \begin{equation}\label{eq_Vpair}
 \widehat{V}_\textrm{pairing}=-g\widehat{S}^j_+\widehat{S}^j_-
@@ -117,7 +117,7 @@ E(n,v)=-\frac{g}{4}(n-v)(2j-n-v+3)
 \end{equation}
 给出。除了核子数$n$，总角动量$J$以及它的投影$M_J$以外，所有的本征态都通过一个seniority量子数$v$来表征，其表示没有在总角动量耦合为零的配对中的核子数。对于一个相互吸引的配对相互作用($g>0$)，其具有最低能量的本征态，如果核子数为偶数时seniority$v=0$，，如果核子数为奇数时seniority$v=1$.这些最低能量的本征态，取决于归一化因子，对于偶数$n$可以被写成$(\widehat{S}^j_+)^{n/2}|0\rangle$，对于奇数$n$可以被写成$a_{jm_j}^\dag(\widehat{S}^j_+)^{n/2}|0\rangle$，其中$|0\rangle$是核子的真空态。
 
-关于原子核配对关联的讨论，传统上是受到凝聚态超流性处理的启发，其是在1957年由Bardeen,Cooper和Schrieffer提出，并且后来被用来讨论原子核的配对(Bohr, Mttelson, \&Pines, 1958)。超流相的特征是在单个量子态中存在大量全同的玻色子。在超导体中的玻色子是在费米面处形成的具有相反动量的电子对，而在原子核中，根据前面的讨论，它们是具有相反角动量的价核子对。
+关于原子核配对关联的讨论，传统上是受到凝聚态超流性处理的启发，其是在1957年由 Bardeen, Cooper 和 Schrieffer 提出，并且后来被用来讨论原子核的配对(Bohr, Mttelson, \&Pines, 1958)。超流相的特征是在单个量子态中存在大量全同的玻色子。在超导体中的玻色子是在费米面处形成的具有相反动量的电子对，而在原子核中，根据前面的讨论，它们是具有相反角动量的价核子对。
 
 这些概念的一般形式涉及到几个轨道。在简并轨道的情况下，这可以通过替换来实现$\widehat{S}_\mu^j\mapsto\widehat{S}_\mu\equiv\sum_j\widehat{S}^j_\mu$，这使得前面的所有结果对单$j$有效，保持不变。后面的公式可以应用于单幻核，但由于它需要配对相互作用与简并轨道的的假设，因此其适用性受到限制。
 
@@ -137,7 +137,7 @@ Richardson 在Bethe假设的基础上，提出了一种求解分布在非简并�
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{figure/F_richardson.png}
-\caption{两个核子在5个单粒子轨道上的分布的Richardson方程的图形解。求和$\Sigma_j\Omega_j/(2\epsilon_j-E)\equiv y(E)(\textrm{in MeV}^{-1})$作为$E$(in MeV)的函数被画出。该曲线(blue)与曲线${y=1/g}$(red)的交点(red dots)对应于Richardson方程的解。\label{F_richardson}}
+\caption{两个核子在5个单粒子轨道上的分布的 Richardson 方程的图形解。求和 $\Sigma_j\Omega_j/(2\epsilon_j-E)\equiv y(E)\ (\textrm{in MeV}^{-1})$ 作为 $E$ (in MeV) 的函数被画出。该曲线 (blue) 与曲线 ${y=1/g}$ (red) 的交点 (red dots) 对应于 Richardson 方程的解。\label{F_richardson}}
 \end{figure}
 
 
@@ -159,6 +159,51 @@ Richardson 在Bethe假设的基础上，提出了一种求解分布在非简并�
 \begin{equation}
 E_{\rm GS}(n)=nE_0+\frac{1}{2}n(n-1)\Delta
 \end{equation}
-由于它是线性和二次依赖于核子数$n$的，所以这个结果可以被认为是一个Racah’s seniority公式\ref{eq_13}的推广，当$E_0=-g(j+1)/2$和$\Delta=g/2$时可以化简得到。
+由于它是线性和二次依赖于核子数$n$的，所以这个结果可以被认为是一个Racah's seniority公式\ref{eq_13}的推广，当$E_0=-g(j+1)/2$和$\Delta=g/2$时可以化简得到。
 
-\subsection{Neutrons and protons}
+\subsubsection{Neutrons and protons}
+对于$t=\frac{1}{2}$的情况，可以得到准自旋代数Sp(4)，其是与SO(5)同构的。代数Sp(4)与SO(5)由两个指标表征，对应于 seniority $v$和约化同位旋$T_v$。Seniority $v$与在类核子的情况下的解释是相同的，即没有配对耦合成角动量$J=0$的核子数，而约化同位旋对应于这些核子总的同位旋。
+
+前面的结果可以由 Helmers 提出的对任意$t$的一般性分析得到。 有兴趣的话可以明确的分析在原子核中适用的选择，即$t=\frac{1}{2}$。 最后给出了在 $LS$ 耦合中的结果，这是推广到中子和质子的更方便的方案。
+
+如果$\ell$壳层包含质子和中子，那么对相互作用就被假定是同位旋不变的，这表明在$T=1$的三种可能的，即中子-中子、质子-质子、质子-中子的情况下是相同的，并且配对相互作用\ref{eq_Vpair}采用的形式是
+\begin{equation}\label{eq_19}
+\widehat{V}_\textrm{pairing}'=-g\sum_\mu\widehat{S}_{+,\mu}^\ell\widehat{S}_{-,\mu}^\ell\equiv-g\widehat{S}_+^\ell\cdot\widehat{S}_-^\ell
+\end{equation}
+其中点表示在同位旋中的标量积。表示为核子算符$a^\dag_{\ell m_\ell,sm_s,tm_t}$，其现在也带有同位旋指标(当$t=\frac{1}{2}$)，配对算符是
+\begin{equation}\label{eq_20}
+\widehat{S}^\ell_{+,\mu}=\sqrt{\frac{1}{2}}\sqrt{2\ell+1}(a^\dag_{\ell,s,t}\times a^\dag_{\ell,s,t})^{(001)}_{00\mu},\quad\widehat{S}^\ell_{-,\mu}=\left(\widehat{S}^\ell_{+,\mu}\right)
+\end{equation}
+其中$\widehat{S}$表示轨道角动量$L=0$，自旋$S=0$，以及同位旋$T=1$的对。指标$\mu$(同位旋投影)用来区分中子-中子对($\mu=+1$)、质子-质子对($\mu=-1$)和质子-中子对($\mu=0$)。所以$L=0,\ S=0$以及$T=1$存在3种不同的对(在图顶部)，并且通过作用同位旋升降算符$\widehat{T}_\pm$联系在一起。与哈密顿量\ref{eq_19}对应的准自旋代数是SO(5)，并且这使得这个问题可以解析求解。
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\textwidth]{figure/F_pairs.png}
+\caption{轨道角动量$L=0$的不同种类的核子对的示意图。参与配对的价中子(蓝色)或质子（红色）占据时间反转轨道(沿相反方向绕着原子核旋转)。如果核子是相同的，它们的自旋必须是反平行的，这个构型对于中子-质子对也是允许的(顶部)。只有中子-质子对(底部)才允许具有自旋平行的构型。\label{F_pairs}}
+\end{figure}
+
+对于一个质子和一个质子，这里存在一个不同的自旋平行的配对状态(图\ref{F_pairs}底部)。因此，对于中子和质子系统最一般的配对相互作用是
+\begin{equation}\label{eq_21}
+\widehat{V}^{''}_\textrm{pairing}=-g\widehat{S}^\ell_+\cdot\widehat{S}^\ell_--g\widehat{P}^\ell_+\cdot\widehat{P}^\ell_-
+\end{equation}
+其中$\widehat{P}$表示轨道角动量$L=0$，自旋$S=1$，以及同位旋$T=0$的对
+\begin{equation}\label{eq_22}
+\widehat{P}^\ell_{+,\mu}=\sqrt{\frac{1}{2}}\sqrt{2\ell+1}(a^\dag_{\ell,s,t}\times a^\dag_{\ell,s,t})^{(010)}_{0\mu 0},\quad\widehat{P}^\ell_{-,\mu}=\left(\widehat{P}^\ell_{+,\mu}\right)
+\end{equation}
+指表$\mu$是自旋投影，区分$S=1$的对的三个空间方向。配对相互作用\ref{eq_21}现在包含两个参数，$g$和$g'$，分别是同位旋矢量组分和同位旋标量组分的强度。对于不同的比率$g/g'$，得到了在本质上具有不同结构的解。
+
+一般来说，与配对相互作用\ref{eq_21}相关联的问题只能在给定壳模型空间的一个典型的大小的情况下，通过数值方法来解决，这是一项艰巨的任务。然而，对于一些特定的$g$和$g'$，$\widehat{V}^{''}_\textrm{pairing}$可以被解析的求解。通过分析发现存在代数SO(8)，它是由配对算符\ref{eq_20}和\ref{eq_22}，它们的对易子，以及它们自身的对易子，并以此类推直到得到一个封闭的代数结构所构成的的。除了配对算符\ref{eq_20}和\ref{eq_22}以外，还通过数量算符$\widehat{n}$，自旋和同位旋算符$\widehat{S}$、$\widehat{T}$，以及在3.2节Wigner's supermultiplet algebra中义的Gamow-Teller类的算符$\widehat{U}_{\mu\nu}$引入了封闭性。
+
+从子代数SO(8)的研究中可以得到在下面的三种情况下：(i)$g=0$, (ii)$g'=0$以及(iii)$g=g'$，配对相互作用\ref{eq_21}具有动力学的对称性，这三种情况分别对应于纯的同位旋标量配对，纯的同位旋矢量配对，以及相等强度的同位旋矢量和同位旋标量配对。在这三个限制下，seniority $v$ 是守恒的，在(i)和(ii)的情形下，seniority $v$ 与SO(5)代数相关，而在(iii)的情形下，seniority $v$ 与so（8）代数相关。
+
+相同核子的配对理论的主要结果之一是从$S$对的角度来认识低能态的特殊结构。因此，在中子与质子的配对理论中解决同样的问题是很有意义的。SO(8)的超流体的性质可以用中子数$N$和质子数$Z$相等的原子核基态的例子来说明。对于相等强度的同位旋矢量和同位旋标量的配对，$g=g'$，配对相互作用\ref{eq_21}是可解的，并且可以证明它的基态是
+\begin{equation}\label{eq_23}
+\left(\widehat{S}_+^\ell\cdot\widehat{S}_+^\ell-\widehat{P}_+^\ell\cdot\widehat{P}_+^\ell\right)^{n/4}|\textrm{o}\rangle
+\end{equation}
+这表明，超流体的解具有四重结构，即它还原为玻色子类物体的凝聚态，对应于四个核子。以为这个物体在自旋和同位旋中的标量，所以它可以被考虑为一个$\alpha$粒子，然而，它的轨道特性可能与实际的$\alpha$粒子不同。在SO(8)的其他两个限制下，$g=0$和$g'=0$，也表现出了一个四重结构，具有与\ref{eq_23}同一类的基态波函数，只是其中第一项或第二项被抑制。因此，对于具有任意强度$g$和$g'$的配对相互作用\ref{eq_21}的$N=Z$核的基态波函数的一个合理的假设是
+\begin{equation}\label{eq_24}
+\left(\cos\theta\widehat{S}^\ell_+\cdot\widehat{S}^\ell_+-\sin\theta\widehat{P}_+^\ell\cdot\widehat{P}_+^\ell\right)^{n/4}|\textrm{o}\rangle
+\end{equation}
+其中$\theta$是一个依赖于$g/g'$比率的参数。
+
+类$\alpha$粒子的凝聚态\ref{eq_24}可以被看做是$N=Z$的$g$和$g'$的任意组合的配对相互作用\ref{eq_21}基态的极好的近似。然而，应强调的是，在价核子壳中当中子和质子同时存在时，配对相互作用\ref{eq_21}不是一个包含重要的四极组分的真实壳模型哈密顿量的很好的近似。因此，任何仅基于$L=0$的费米子对的模型，在本质上都必须是示意性的。一个真实的模型也应该包括$L\ne0$的对。
+\subsection{Wigner's supermultiplet model}
