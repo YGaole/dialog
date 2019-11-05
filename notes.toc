@@ -15,18 +15,42 @@
 \contentsline {section}{\numberline {1.14}2019.10.25}{2}{section.1.14}% 
 \contentsline {section}{\numberline {1.15}2019.10.27}{2}{section.1.15}% 
 \contentsline {section}{\numberline {1.16}2019.10.28}{2}{section.1.16}% 
-\contentsline {chapter}{\numberline {2}基于质量表的核子相互作用}{3}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}引言}{3}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}mass-date-based相互作用}{3}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}$V_{1p-1n}$相互作用}{3}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}$V_{ip-jn}$相互作用}{4}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}同类核子间的相互作用}{5}{subsection.2.2.3}% 
-\contentsline {section}{\numberline {2.3}mass-date-based相互作用的统计规律}{8}{section.2.3}% 
-\contentsline {chapter}{\numberline {3}Exactly solvable models of nuclei}{14}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Introduction}{14}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}An algebraic formulation of the quantal $n$-body problem}{14}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}The nuclear shell model}{16}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Racah's seniority model}{16}{subsection.3.3.1}% 
-\contentsline {subsubsection}{\numberline {3.3.1.1}Identical nucleons}{17}{subsubsection.3.3.1.1}% 
-\contentsline {subsubsection}{\numberline {3.3.1.2}Neutrons and protons}{19}{subsubsection.3.3.1.2}% 
-\contentsline {subsection}{\numberline {3.3.2}Wigner's supermultiplet model}{21}{subsection.3.3.2}% 
+\contentsline {section}{\numberline {1.17}2019.10.29}{2}{section.1.17}% 
+\contentsline {section}{\numberline {1.18}2019.10.30}{2}{section.1.18}% 
+\contentsline {section}{\numberline {1.19}2019.10.31}{3}{section.1.19}% 
+\contentsline {section}{\numberline {1.20}2019.11.01}{3}{section.1.20}% 
+\contentsline {section}{\numberline {1.21}2019.11.02}{3}{section.1.21}% 
+\contentsline {section}{\numberline {1.22}2019.11.04}{3}{section.1.22}% 
+\contentsline {section}{\numberline {1.23}2019.11.05}{3}{section.1.23}% 
+\contentsline {chapter}{\numberline {2}基于质量表的核子相互作用}{4}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}引言}{4}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}mass-date-based相互作用}{4}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}$V_{1p-1n}$相互作用}{4}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}$V_{ip-jn}$相互作用}{5}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}同类核子间的相互作用}{6}{subsection.2.2.3}% 
+\contentsline {section}{\numberline {2.3}mass-date-based相互作用的统计规律}{9}{section.2.3}% 
+\contentsline {chapter}{\numberline {3}Exactly solvable models of nuclei}{15}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduction}{15}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}An algebraic formulation of the quantal $n$-body problem}{15}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}The nuclear shell model}{17}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Racah's seniority model}{17}{subsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.1.1}Identical nucleons}{18}{subsubsection.3.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.3.1.2}Neutrons and protons}{20}{subsubsection.3.3.1.2}% 
+\contentsline {subsection}{\numberline {3.3.2}Wigner's supermultiplet model}{22}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Elliott's rotation model}{23}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}The Lipkin model}{24}{subsection.3.3.4}% 
+\contentsline {section}{\numberline {3.4}Geometric collective models}{25}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Exactly solvable collective models}{25}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Triaxial models}{27}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Geometric collective models: an algebraic approach}{29}{subsection.3.4.3}% 
+\contentsline {section}{\numberline {3.5}The interacting boson model}{29}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}Neutrons and protons: $F$ spin}{30}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}Neutrons and protons: Isospin}{32}{subsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.5.3}Supersymmetry}{32}{subsection.3.5.3}% 
+\contentsline {section}{\numberline {3.6}Beyond exact solvability}{34}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}Further reading}{34}{section.3.7}% 
+\contentsline {section}{\numberline {3.8}Acknowledgement}{35}{section.3.8}% 
+\contentsline {chapter}{\numberline {4}mass paper}{36}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Abstract}{36}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Introduction}{36}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Mass-data-based residual nucleons interaction}{36}{section.4.3}% 
