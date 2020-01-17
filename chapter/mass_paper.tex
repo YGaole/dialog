@@ -2,4 +2,33 @@
 \section{Abstract}
 \section{Introduction}
 The unique role of $n-p$ residual interaction was widely recognized long ago.~There has been a great interest in interpreting a wide variety of nuclear phenomena, such as configuration mixtures, development of collectivity, spherical-deformed shape transitions and so on, in terms of this force. 
-\section{Mass-data-based residual nucleons interaction}
+\section{Formulas}
+The mass-date-based empirical interaction energy $\varepsilon_{ip-jn}$ of the last $i$ proton(s) and the last $j$ neutron(s) in a nucleus can be found in Refs[]. It can generally be written as
+\begin{equation}\label{eq_ip_jn}
+\varepsilon_{ip-jn}(N+j,Z+i)=B(N+j,Z+i)-B(N+j,Z)-B(N+j,Z)+B(N,Z),
+\end{equation}
+where $B(N,Z)$ is the binding energy of nucleus with $N$ neutrons and $Z$ protons. Specifically, the $n-p$ interaction of last proton and the last neutron $\varepsilon_{1p-1n}$ can be written as
+\begin{equation}\label{eq_p_n}
+\varepsilon_{1p-1n}(N+1,Z+1)=B(N+1,Z+1)-B(N+1,Z)-B(N+1,Z)+B(N,Z).
+\end{equation}
+And its easy to be shown the relationship between $\varepsilon_{ip-jn}$ and $\varepsilon_{1p-1n}$ with eq.[\ref{eq_ip_jn}] and eq.[\ref{eq_p_n}]
+\begin{eqnarray}
+  &\ &\varepsilon_{ip-jn}(Z,N)\nonumber\\
+  &=&\varepsilon_{1p-jn}(Z,N)+\varepsilon_{1p-jn}(Z-1,N)+\cdots+\varepsilon_{1p-jn}(Z-i+1,N)\nonumber\\
+  &=&\varepsilon_{1p-1n}(Z,N)+\varepsilon_{1p-1n}(Z,N-1)+\cdots+\varepsilon_{1p-1n}(Z,N-j+1)\nonumber\\
+  &\ &+\varepsilon_{1p-1n}(Z-1,N)+\varepsilon_{1p-1n}(Z-1,N-1)+\cdots+\varepsilon_{1p-1n}(Z-1,N-j+1)\nonumber\\
+  &\ &\qquad\qquad\qquad\qquad\qquad\qquad\vdots\nonumber\\
+  &\ &+\varepsilon_{1p-1n}(Z-i+1,N)+\varepsilon_{1p-1n}(Z-i+1,N-1)\nonumber\\
+  &\ &\quad+\cdots+\varepsilon_{1p-1n}(Z-i+1,N-j+1),\label{eq_relat}
+\end{eqnarray}
+With this relation, we can explain many phenomenons between $\varepsilon_{1p-2n}$ and $\varepsilon_{1p-1n}$ mentioned in Refs[]. and it will be discussed in details at next section. For comparison, we still give the  mass-date-based empirical $n-n(p-p)$ pairing interaction energy $P_n(P_p)$ of in a nucleus
+\begin{equation}\label{eq_P_n}
+P_n(N,Z)=[B(N,Z)-B(N-1,Z)]-[B(N-1,Z)-B(N-2,Z)]\qquad({\rm even} N),
+\end{equation}
+and
+\begin{equation}\label{eq_P_n}
+P_p(N,Z)=[B(N,Z)-B(N,Z-1)]-[B(N,Z-1)-B(N,Z-2)]\qquad({\rm even} Z),
+\end{equation}
+\section{Results and Discussions}
+First, we calculated $\epsilon_{1p-1n}$ interaction of experimentally known nucleus in whole nuclide's chart, with eq.[\ref{eq_p_n}] and atom mass table 2016(AME2016). There are 2129 nuclide that can be calculated with experimentally known binding energies and they are shown in Fig.[] From this figure, the basic characteristics and globe trends of $\epsilon_{1p-1n}$ interaction can be described qualitatively as follows: a) $\epsilon_{1p-1n}$ interaction energy of $N=Z$ nucleus 
+\section{Summary}

@@ -18,7 +18,7 @@
 \end{equation}
 其中$m_k$和$\hat{p}_k^2/2m_k$分别是第$k$个粒子的质量和动能。这些粒子可以是玻色子或费米子。它们可能携带一个本征自旋和/或具有其他本征变量的特征（例如同位旋，其投影可以区分中子和质子）。这些粒子的变量$k$，以及他们的坐标变量$\bm{r}_k$，整体的被标记为$\varepsilon_k$。除了动能和一个可能的外部势场$\hat{V}_1(\varepsilon_k)$外，哈密顿量\ref{eq_hamilt}还包含代表组成粒子之间的两体、三体以及可能的多体相互作用项。$n-$体量子系统的定态性质通过在满足额外的玻色子交换对称和费米子交换反对称的限制下，求解薛定谔方程方程\ref{eq_schrodinger}来决定。
 
-哈密顿量\ref{eq_hamilt}可以在二次量子化的情况下等效的写出来。描述一个独立的无相互作用的粒子体系的单体部分，定义了一个由单粒子态$\phi_\alpha(\varepsilon_k)$构成的基，其中$\alpha$标记了一个在势场$\hat{V}_1$下的定态。在狄拉克符号系统下，这个单粒子态可以写成$\left<\varepsilon|\alpha\right>$，其中右矢$\left|\alpha\right>$可以利用产生算符$c_\alpha^\dag$作用在真空态上得到，$\left|\alpha\right>=c_\alpha^\dag\left|\textrm{o}\right>$。厄密伴随左矢也可以类似的利用湮灭算符$c_\alpha$，$\left<\alpha\right|=\left<\textrm{o}\right|c_\alpha$。一个多体系统的态现在可以简写为$\left|\alpha\beta\cdots\right>=c_\alpha^\dag c_\beta^\dag\cdots\left|\textrm{o}\right>$，而Pauli原理是自动满足的，当产生和湮灭算符$c_\alpha^\dag$、$c_\alpha$，在粒子是玻色子和费米子时分别满足对易关系和反对易关系，即
+哈密顿量\ref{eq_hamilt}可以在二次量子化的情况下等效的写出来。其单体部分描述了一个独立的无相互作用的粒子体系，定义了一个由单粒子态$\phi_\alpha(\varepsilon_k)$构成的基，其中$\alpha$标记了一个在势场$\hat{V}_1$下的定态。在狄拉克符号系统下，这个单粒子态可以写成$\left<\varepsilon|\alpha\right>$，其中右矢$\left|\alpha\right>$可以利用产生算符$c_\alpha^\dag$作用在真空态上得到，$\left|\alpha\right>=c_\alpha^\dag\left|\textrm{o}\right>$。厄密伴随左矢也可以类似的利用湮灭算符$c_\alpha$，$\left<\alpha\right|=\left<\textrm{o}\right|c_\alpha$。一个多体系统的态现在可以简写为$\left|\alpha\beta\cdots\right>=c_\alpha^\dag c_\beta^\dag\cdots\left|\textrm{o}\right>$，而Pauli原理是自动满足的，当产生和湮灭算符$c_\alpha^\dag$、$c_\alpha$，在粒子是玻色子和费米子时分别满足对易关系和反对易关系，即
 \begin{equation*}
 [c_\alpha,c_\beta^\dag]=\delta_{\alpha\beta},\quad[c_\alpha,c_\beta]=[c_\alpha^\dag,c_\beta^\dag]=0
 \end{equation*}
@@ -30,9 +30,9 @@
 \begin{equation}\label{eq_halmiton}
 \hat{H}=\sum_\alpha\varepsilon_\alpha c_\alpha^\dag c_\alpha+\sum_{\alpha\beta\gamma\delta}v_{\alpha\beta\gamma\delta}c_\alpha^\dag c_\beta^\dag c_\gamma c_\delta+\cdots
 \end{equation}
-其中$\varepsilon_\alpha$是与哈密顿量\ref{eq_hamilt}中的单体项相关的系数，$v_{\alpha\beta\gamma\delta}$是与两体相互作用相关的系数，以此类推。求和是单粒子态的整个完备集上的，在大多数应用中是无穷的。即使是在一组有限的单粒子态上求和，薛定谔方程的求解仍然是一项艰巨的任务，因为因为随着粒子数和可能的单粒子态的增加，多体态的Hilbert空间的维数是指数增长的。
+其中$\varepsilon_\alpha$是与哈密顿量\ref{eq_hamilt}中的单体项相关的系数，$v_{\alpha\beta\gamma\delta}$是与两体相互作用相关的系数，以此类推。求和是在单粒子态的整个完备集上的，在大多数应用中是无穷的。即使是在一组有限的单粒子态上求和，薛定谔方程的求解仍然是一项艰巨的任务，因为随着粒子数和可能的单粒子态的增加，多体态的Hilbert空间的维数是指数增长的。
 
-与哈密顿量\ref{eq_halmiton}相关的薛定谔方程只有当粒子间无相互作用时才有直接解。在这种情况下，$n-$体问题变成了$n$个单体问题，使得这$n$个粒子的本征态变成了，当粒子是玻色子是是Slater恒等式，当粒子是费米子时是Sla	ter行列式，即，本征态是$c_{\alpha_1}^\dag\cdots c_{\alpha_1}^\dag\left|\textrm{o}\right>$的形式。Slater恒等式或行列式是Hartree(-Fock)理论提出的一个重要的概念。虽然平均势或平均场方法隐式的包含相关性，但是Hartree(-Fock)理论理论并未明确地处理两体和多体的相互作用，但是Slater恒等式或行列式确实提供了一个可以对角化粒子间相互作用的基。阻止人们进行这种对角线化的主要障碍是基的维数。因此，问题在于相互作用是否可以绕过对角化，并且可以被解析的处理。
+与哈密顿量\ref{eq_halmiton}相关的薛定谔方程只有当粒子间无相互作用时才有直接解。在这种情况下，$n-$体问题变成了$n$个单体问题，使得这$n$个粒子的本征态变成了，当粒子是玻色子是是Slater恒等式，当粒子是费米子时是Slater行列式，即，本征态是$c_{\alpha_1}^\dag\cdots c_{\alpha_1}^\dag\left|\textrm{o}\right>$的形式。Slater恒等式或行列式是Hartree(-Fock)理论提出的一个重要的概念。虽然平均势或平均场方法隐式的包含相关性，但是Hartree(-Fock)理论理论并未明确地处理两体和多体的相互作用，但是Slater恒等式或行列式确实提供了一个可以对角化粒子间相互作用的基。阻止人们进行这种对角线化的主要障碍是基的维数。因此，问题在于相互作用是否可以绕过对角化，并且可以被解析的处理。
 
 用对称性分析求解特定种类的哈密顿量\ref{eq_halmiton}的测量，是当发现它们可以用算符$\hat{u}_{\alpha\beta}\equiv c_{\alpha}^\dag c_\beta$来重新表述时开始的。后一种算符对于玻色子和费米子都可以证明服从下列交换关系：
 \begin{equation}\label{eq_commu}
